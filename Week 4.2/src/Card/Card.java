@@ -3,7 +3,7 @@ package Card;
 
 /**
  *
- * @author ryanteixeira
+ * @author ryanteixeira edit
  */
 public class Card {
     
